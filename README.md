@@ -14,6 +14,28 @@
 > 一个写着玩的微前端容器
 
 ### 🏠 [GitHub Homepage](https://github.com/chuifengji/microcosmos)
+---
+
+## 如何运行起来
+- 主应用：
+ ```
+ npm i
+
+ npm run build
+
+ npm run start
+ ```
+- 各自子应用: 
+ ```
+ npm i
+
+ npm run build
+
+ npm run start
+ ```
+
+- 浏览器上打开对应端口的网页
+
 
 ---
 
